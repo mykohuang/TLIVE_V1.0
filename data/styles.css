@@ -9,7 +9,15 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
 ._图片 {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -54,6 +62,8 @@
 }
 ._文本段落 {
   text-align:left;
+}
+.line {
 }
 ._流程形状 {
 }
