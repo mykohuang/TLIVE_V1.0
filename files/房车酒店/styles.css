@@ -866,28 +866,44 @@
   width:193px;
   white-space:nowrap;
 }
-#u185_img {
+#u185_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1440px;
-  height:274px;
+  width:161px;
+  height:46px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft YaHei UI Light', 'Microsoft YaHei UI';
+  font-weight:290;
+  font-style:normal;
+  font-size:36px;
+  color:#666666;
 }
 #u185 {
   border-width:0px;
   position:absolute;
-  left:11px;
-  top:2297px;
-  width:1439px;
-  height:273px;
+  left:650px;
+  top:2452px;
+  width:161px;
+  height:46px;
+  font-family:'Microsoft YaHei UI Light', 'Microsoft YaHei UI';
+  font-weight:290;
+  font-style:normal;
+  font-size:36px;
+  color:#666666;
 }
 #u186 {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:128px;
-  width:1435px;
-  visibility:hidden;
-  word-wrap:break-word;
+  left:0px;
+  top:0px;
+  width:161px;
+  white-space:nowrap;
 }
