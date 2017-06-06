@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1450px;
+  width:1440px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -23,8 +23,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:10px;
+  left:0px;
+  top:0px;
   width:1440px;
   height:2560px;
 }
